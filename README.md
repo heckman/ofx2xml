@@ -56,3 +56,10 @@ I wrote a script ([ofx2](https://github.com/heckman/ofx2)) to process the QFX fi
 which are all stuck using the older SGML format.
 After using this utility to convert them to valid XML,
 my script can then parse the data using other command-line utilities.
+
+## Disclaimer
+
+_**ofx2xml**_ is the first thing I've written in _Go_,
+and I leant heavily on AI to do it,
+as I really don't know it at all.
+Any tips there would be particularely welcome.
